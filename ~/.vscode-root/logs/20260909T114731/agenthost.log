@@ -1,0 +1,26 @@
+2026-09-09 11:47:37.424 [info] Agent Host process started successfully
+2026-09-09 11:47:37.494 [info] AgentService initialized
+2026-09-09 11:47:37.527 [info] Registering agent provider: copilotcli
+2026-09-09 11:47:37.536 [info] Registering agent provider: claude
+2026-09-09 11:47:37.547 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-09 11:47:37.549 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-09 11:47:37.625 [info] [Claude] Models refreshed (merged). Count: 0, 
+2026-09-09 11:47:37.695 [info] [WebSocketProtocol] Server listening on socket /tmp/vscode-ah-1a16622cb7af/f4N0FBYWV1rHpHPCWCf1Mg.sock
+2026-09-09 11:47:37.751 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-09 11:47:37.800 [info] [CommandAutoApprover] Tree-sitter initialized (bash=available, powershell=available)
+2026-09-09 11:47:38.142 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-09 11:47:38.934 [info] [ProtocolServer] Initialize: clientId=87b94777-aa33-4251-b13a-0ecd49c439be, protocolVersions=[1.0.0, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1]
+2026-09-09 11:47:45.042 [error] #1: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST fetch failed
+2026-09-09 11:47:49.593 [info] [AgentService] pruned 0 stale external session row(s) older than 30 days
+2026-09-09 11:47:49.596 [info] [Copilot] Listing discoverable chats...
+2026-09-09 11:47:49.597 [info] [Copilot] Starting CopilotClient...
+2026-09-09 11:47:49.599 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=vscode-chat
+2026-09-09 11:47:49.611 [info] [Copilot] Resolved CLI path: /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js
+2026-09-09 11:47:49.639 [info] [Claude] SDK not downloaded yet; deferring chat discovery
+2026-09-09 11:47:50.645 [error] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST fetch failed
+2026-09-09 11:47:52.283 [info] [Copilot] CopilotClient started successfully
+2026-09-09 11:47:52.288 [info] [Copilot] Listed 0 SDK session(s) for discoverable chats
+2026-09-09 11:47:52.289 [info] [Copilot] Chat discovery: 0 SDK session(s) -> 0 external, 0 adoptable legacy extension-host, 0 suppressed adoptable legacy extension-host, 0 suppressed archived legacy extension-host, 0 already known to Agent Host, 0 without a working directory, 0 with unsupported or missing client name, 0 outside the import window, 0 without repository metadata, 0 failed to classify (adopt legacy extension-host chats: false)
+2026-09-09 11:47:53.669 [info] [Claude] Auth token unchanged
+2026-09-09 11:47:58.437 [error] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST fetch failed
+2026-09-09 11:48:01.872 [error] #4: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST fetch failed

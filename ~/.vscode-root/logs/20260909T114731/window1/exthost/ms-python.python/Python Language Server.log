@@ -1,0 +1,31 @@
+2026-09-09 11:47:56.471 [info] Client: Pylance client (2026.3.1) started with python extension (2026.4.0)
+2026-09-09 11:47:58.576 [info] (98750): Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-09-09 11:47:59.084 [info] (98750): Pylance language server 2026.3.1 (pyright version 1.1.411, commit 9a9205fc) starting
+2026-09-09 11:47:59.173 [info] (98750): Starting service instance "project" for workspace "/home/k7dx/project"
+2026-09-09 11:48:02.303 [info] (98750): Loading background bundle file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist/copilot-background.bundle.js into file:///home/k7dx/project...
+2026-09-09 11:48:02.506 [info] (98750): Starting Mcp server id:37590 ...
+2026-09-09 11:48:02.559 [info] (98750): FG(project): Setting environmentName for service "project": "venv (3.14.6.final.0)"
+2026-09-09 11:48:02.561 [info] (98750): FG(project): Setting pythonPath for service "project": "/home/k7dx/project/backend/venv/bin/python"
+2026-09-09 11:48:02.562 [info] (98750): FG(project): No include entries specified; assuming /home/k7dx/project
+2026-09-09 11:48:02.564 [info] (98750): FG(project): Auto-excluding **/node_modules
+2026-09-09 11:48:02.564 [info] (98750): FG(project): Auto-excluding **/__pycache__
+2026-09-09 11:48:02.565 [info] (98750): FG(project): Auto-excluding **/.*
+2026-09-09 11:48:02.658 [info] (98750): FG(project): Assuming Python version 3.14.6.final.0
+2026-09-09 11:48:02.955 [info] (98750): FG(project): Auto-excluding /home/k7dx/project/backend/venv
+2026-09-09 11:48:02.986 [info] (98750): FG(project): Auto-excluding /home/k7dx/project/venv
+2026-09-09 11:48:02.986 [info] (98750): FG(project): Found 3 source files
+2026-09-09 11:48:03.139 [info] (98750): Settings have not changed. Skipping update.
+2026-09-09 11:48:04.533 [info] (98750): [Editable Installs] Starting dynamic pth file resolution for Python: /home/k7dx/project/backend/venv/bin/python
+2026-09-09 11:48:04.572 [info] (98750): [Editable Installs] No sandbox available for Python /home/k7dx/project/backend/venv/bin/python. Dynamic pth file resolution requires Python 3.13 or later.
+2026-09-09 11:48:04.709 [info] (98750): PQ(project): Priority queue background worker(2) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-09-09 11:48:04.711 [info] (98750): PQ(project): Priority queue background worker(2) started
+2026-09-09 11:48:06.412 [info] (98750): FG(project): IDX(project): Indexer background runner(3) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist (index)
+2026-09-09 11:48:06.414 [info] (98750): FG(project): IDX(project): Indexing(3) started
+2026-09-09 11:48:12.186 [info] (98750): FG(project): IDX(project): Long operation: scan packages file:///home/k7dx/project (5507ms)
+2026-09-09 11:48:12.187 [info] (98750): FG(project): IDX(project): scanned(3) 128 files over 1 exec env
+2026-09-09 11:48:13.408 [info] (98750): FG(project): IDX(project): indexed(3) 128 files over 1 exec env
+2026-09-09 11:48:13.610 [info] (98750): FG(project): IDX(project): Indexing finished(3).
+2026-09-09 11:48:17.918 [info] (98750): BG(project): Long operation: SemanticTokens range 956:0 - 1051:80 at file:///home/k7dx/project/backend/main.py (12880ms)
+2026-09-09 11:48:22.314 [info] (98750): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (4304ms)
+2026-09-09 11:48:22.315 [info] (98750): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (4306ms)
+2026-09-09 11:48:31.682 [info] (98750): BG(project): Long operation: SemanticTokens full at file:///home/k7dx/project/backend/main.py (9337ms)

@@ -1,0 +1,103 @@
+2026-09-04 16:20:27.099 [info] Extension host with pid 39555 started
+2026-09-04 16:20:27.099 [info] Skipping acquiring lock for /home/k7dx/project/~/.vscode-root/User/workspaceStorage/32f4b15a357b9afc3a1121851bc3be67.
+2026-09-04 16:20:27.413 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-09-04 16:20:27.464 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-09-04 16:20:27.848 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-09-04 16:20:27.868 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2026-09-04 16:20:27.930 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2026-09-04 16:20:28.006 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-09-04 16:20:28.155 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-09-04 16:20:28.410 [info] Eager extensions activated
+2026-09-04 16:20:28.454 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 16:20:28.470 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 16:20:28.537 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 16:20:29.927 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 16:20:33.263 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-09-04 16:20:33.282 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-09-04 16:20:33.316 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-09-04 16:20:44.095 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2026-09-04 16:20:44.292 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 16:20:44.385 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 16:20:44.476 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 16:21:06.841 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2026-09-04 16:21:31.892 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2026-09-04 16:49:25.625 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-09-04 17:15:09.926 [info] Extension host terminating: received terminate message from renderer
+2026-09-04 17:15:10.517 [warning] Canceled
+2026-09-04 17:15:10.868 [info] Extension host with pid 39555 exiting with code 0
+2026-09-04 17:15:17.142 [info] Extension host with pid 73382 started
+2026-09-04 17:15:17.142 [info] Skipping acquiring lock for /home/k7dx/project/~/.vscode-root/User/workspaceStorage/78a3734e7c6bff9e1f15ec8f64764bbd.
+2026-09-04 17:15:17.431 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-09-04 17:15:17.479 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-09-04 17:15:17.672 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-09-04 17:15:17.688 [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+2026-09-04 17:15:17.766 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2026-09-04 17:15:17.871 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-09-04 17:15:18.058 [info] Eager extensions activated
+2026-09-04 17:15:18.106 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 17:15:18.116 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 17:15:18.152 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 17:15:19.170 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 17:15:29.230 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2026-09-04 17:15:29.377 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 17:15:29.427 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 17:15:29.467 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2026-09-04 17:16:12.202 [info] ExtensionService#_doActivateExtension ms-python.vscode-python-envs, startup: false, activationEvent: 'onLanguage:python'
+2026-09-04 17:16:12.288 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2026-09-04 17:16:12.521 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2026-09-04 17:16:14.031 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2026-09-04 17:16:14.936 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-09-04 17:16:20.581 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2026-09-04 17:39:13.748 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2026-09-04 17:54:26.392 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2026-09-04 17:54:26.426 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2026-09-04 17:54:31.176 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2026-09-04 17:59:18.760 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2026-09-04 17:59:26.147 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-09-04 17:59:26.276 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-09-04 17:59:26.424 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-09-04 18:16:02.856 [warning] DiagnosticCollection with name 'Pylance' does already exist.
+2026-09-05 16:26:03.415 [info] Extension host terminating: received terminate message from renderer
+2026-09-05 16:26:04.684 [error] An error occurred when disposing the subscriptions for extension 'ms-python.vscode-python-envs':
+2026-09-05 16:26:04.693 [error] Error: Channel has been closed
+    at r (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:549:3935)
+    at Object.error (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:549:4394)
+    at Object.dispose (/root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:577510)
+    at /root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:576097
+    at Array.forEach (<anonymous>)
+    at D.dispose (/root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:576084)
+    at In (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:429:736)
+    at I_._fn (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:546:18838)
+    at I_.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:429:1248)
+    at FR._deactivate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:546:15155)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:546:12457
+    at Array.map (<anonymous>)
+    at FR._deactivateAll (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:546:12445)
+    at FR.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:546:12796)
+    at i.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:548:1072)
+    at ma (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:851:11797)
+    at Np.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:851:9939)
+    at T._deliver (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:431:3617)
+    at T.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:431:3935)
+    at ys.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:433:8627)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:851:8171)
+    at MessagePortMain.emit (node:events:509:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2934)
+2026-09-05 16:26:04.790 [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+    at Object.re [as deactivate] (/root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:770294)
+    at FR._deactivate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:546:14930)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:546:12457
+    at Array.map (<anonymous>)
+    at FR._deactivateAll (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:546:12445)
+    at FR.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:546:12796)
+    at i.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:548:1072)
+    at ma (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:851:11797)
+    at Np.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:851:9939)
+    at T._deliver (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:431:3617)
+    at T.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:431:3935)
+    at ys.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:433:8627)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:851:8171)
+    at MessagePortMain.emit (node:events:509:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2934)
+2026-09-05 16:26:05.162 [warning] Canceled
+2026-09-05 16:26:05.864 [info] Extension host with pid 73382 exiting with code 0

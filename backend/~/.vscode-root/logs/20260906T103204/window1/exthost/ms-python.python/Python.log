@@ -1,0 +1,34 @@
+2026-09-06 10:32:27.613 [info] Environment discovery is managed by the Python Environments extension (ms-python.vscode-python-envs). Check the "Python Environments" output channel for environment-specific logs.
+2026-09-06 10:32:28.983 [info] [test-by-project] Activating project-based testing mode
+2026-09-06 10:32:28.983 [info] [test-by-project] Discovering projects for workspace: /home/k7dx/project/backend
+2026-09-06 10:32:28.984 [info] Native locator: Refresh started
+2026-09-06 10:32:28.984 [info] [test-by-project] Found 1 total Python projects from API
+2026-09-06 10:32:28.984 [info] [test-by-project] Filtered to 1 projects in workspace
+2026-09-06 10:32:28.984 [info] [test-by-project] Creating adapter for: backend at file:///home/k7dx/project/backend
+2026-09-06 10:32:29.162 [info] > pyenv which python
+2026-09-06 10:32:29.162 [info] cwd: .
+2026-09-06 10:32:35.939 [info] [test-by-project] Registered 1 project(s) for /home/k7dx/project/backend
+2026-09-06 10:32:35.948 [info] [test-by-project] Activated 1 project(s) for /home/k7dx/project/backend
+2026-09-06 10:32:35.949 [info] [test-by-project] Subscribed to Python project changes
+2026-09-06 10:32:38.539 [info] Native locator: Refresh finished in 9535 ms
+2026-09-06 10:32:38.606 [info] Active interpreter [/home/k7dx/project/backend]:  /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:43.351 [info] Starting Pylance language server.
+2026-09-06 10:34:42.451 [error] Unable to find workspace for given file
+2026-09-06 10:34:42.765 [error] Unable to find workspace for given file
+2026-09-06 10:34:43.699 [error] Unable to find workspace for given file
+2026-09-07 06:29:28.327 [info] Environment discovery is managed by the Python Environments extension (ms-python.vscode-python-envs). Check the "Python Environments" output channel for environment-specific logs.
+2026-09-07 06:29:29.074 [info] [test-by-project] Activating project-based testing mode
+2026-09-07 06:29:29.075 [info] [test-by-project] Discovering projects for workspace: /home/k7dx/project
+2026-09-07 06:29:29.075 [info] Native locator: Refresh started
+2026-09-07 06:29:29.076 [info] [test-by-project] Found 1 total Python projects from API
+2026-09-07 06:29:29.076 [info] [test-by-project] Filtered to 1 projects in workspace
+2026-09-07 06:29:29.076 [info] [test-by-project] Creating adapter for: project at file:///home/k7dx/project
+2026-09-07 06:29:29.078 [info] Native locator: Refresh started
+2026-09-07 06:29:29.537 [info] [test-by-project] Registered 1 project(s) for /home/k7dx/project
+2026-09-07 06:29:29.539 [info] [test-by-project] Activated 1 project(s) for /home/k7dx/project
+2026-09-07 06:29:29.539 [info] [test-by-project] Subscribed to Python project changes
+2026-09-07 06:29:31.391 [info] Native locator: Refresh finished in 2312 ms
+2026-09-07 06:29:31.420 [info] > pyenv which python
+2026-09-07 06:29:31.421 [info] cwd: .
+2026-09-07 06:29:31.494 [info] Active interpreter [/home/k7dx/project]:  /home/k7dx/project/backend/venv/bin/python
+2026-09-07 06:29:36.405 [info] Starting Pylance language server.

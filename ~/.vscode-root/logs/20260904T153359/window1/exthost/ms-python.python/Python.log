@@ -1,0 +1,21 @@
+2026-09-04 17:16:13.563 [info] Environment discovery is managed by the Python Environments extension (ms-python.vscode-python-envs). Check the "Python Environments" output channel for environment-specific logs.
+2026-09-04 17:16:13.762 [info] [test-by-project] Activating project-based testing mode
+2026-09-04 17:16:13.762 [info] [test-by-project] Discovering projects for workspace: /home/k7dx/project
+2026-09-04 17:16:13.762 [info] Native locator: Refresh started
+2026-09-04 17:16:13.762 [info] [test-by-project] Found 1 total Python projects from API
+2026-09-04 17:16:13.762 [info] [test-by-project] Filtered to 1 projects in workspace
+2026-09-04 17:16:13.762 [info] [test-by-project] Creating adapter for: project at file:///home/k7dx/project
+2026-09-04 17:16:13.822 [info] > pyenv which python
+2026-09-04 17:16:13.822 [info] cwd: .
+2026-09-04 17:16:14.222 [info] [test-by-project] Registered 1 project(s) for /home/k7dx/project
+2026-09-04 17:16:14.227 [info] [test-by-project] Activated 1 project(s) for /home/k7dx/project
+2026-09-04 17:16:14.228 [info] [test-by-project] Subscribed to Python project changes
+2026-09-04 17:16:15.149 [info] Native locator: Refresh finished in 1381 ms
+2026-09-04 17:16:15.588 [info] Active interpreter [/home/k7dx/project]:  /usr/bin/python
+2026-09-04 17:16:18.598 [info] Starting Pylance language server.
+2026-09-04 17:54:26.126 [info] Active interpreter [global]:  /home/k7dx/project/backend/venv/bin/python
+2026-09-04 17:59:15.139 [info] > /usr/bin/python ~/.vscode/extensions/ms-python.python-2026.4.0-linux-x64/python_files/normalizeSelection.py
+2026-09-04 17:59:15.265 [info] > /usr/bin/python ~/.vscode/extensions/ms-python.python-2026.4.0-linux-x64/python_files/normalizeSelection.py
+2026-09-04 17:59:15.336 [info] Active interpreter [/home/k7dx/project]:  /home/k7dx/project/backend/venv/bin/python
+2026-09-04 17:59:15.886 [info] Send text to terminal: /home/k7dx/project/backend/venv/bin/python
+2026-09-04 17:59:28.004 [info] > /usr/bin/python ~/.vscode/extensions/ms-python.python-2026.4.0-linux-x64/python_files/normalizeSelection.py

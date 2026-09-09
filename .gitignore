@@ -1,0 +1,23 @@
+# Node dependencies & builds
+node_modules/
+idshield-ai/node_modules/
+dist/
+build/
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Local Database & Sensitive Data Storage
+*.db
+backend/idshield.db
+backend/uploads/*
+!backend/uploads/.gitkeep
+backend/reports/*
+!backend/reports/.gitkeep
+
+# IDE / System metadata
+.vscode/
+.DS_Store

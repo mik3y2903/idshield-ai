@@ -1,0 +1,117 @@
+2026-09-06 10:32:10.723 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-06 10:32:10.795 [warning] Creation of workbench contribution 'workbench.contrib.agentHostPrewarm' took 54ms.
+2026-09-06 10:32:11.392 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey=undefined conversationKey=undefined modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-06 10:32:12.574 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/YWE3YzUyYzItZGVhMi00N2U4LThkZmQtYjllZGMzM2M5N2Yz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-06 10:32:12.684 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-06 10:32:13.135 [info] Started local extension host with pid 19368.
+2026-09-06 10:32:13.553 [info] [AgentHost:renderer] Protocol connection established; clientId=df1b4f9d-6499-4213-ae45-6500ea84123b
+2026-09-06 10:32:15.208 [info] [RemoteAgentHostProtocol] Mirroring configuration to host root config from DEFAULT: byokModelsEnabled=true (chat.agentHost.byokModels.enabled)
+2026-09-06 10:32:15.604 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-06 10:32:21.130 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-06 10:32:21.259 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/YWE3YzUyYzItZGVhMi00N2U4LThkZmQtYjllZGMzM2M5N2Yz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-06 10:32:24.391 [error] [Extension Host] (node:19368) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-09-06 10:32:32.675 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/YWE3YzUyYzItZGVhMi00N2U4LThkZmQtYjllZGMzM2M5N2Yz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-06 10:32:33.265 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-06 10:32:33.321 [info] Extension host (LocalProcess pid: 19368) is unresponsive.
+2026-09-06 10:32:33.835 [info] Extension host (LocalProcess pid: 19368) is responsive.
+2026-09-06 10:32:34.720 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:34.741 [info] [AgentHost] Clearing authentication for resource: https://api.github.com
+2026-09-06 10:32:34.935 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:34.936 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:34.937 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:34.937 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:34.957 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:34.958 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:34.958 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:34.958 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:34.960 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:34.963 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:34.964 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:34.966 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:35.066 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:35.159 [info] [AgentHost] Clearing authentication for resource: https://api.github.com/repos
+2026-09-06 10:32:35.361 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:35.363 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:35.364 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:35.369 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:35.371 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:35.374 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:35.381 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:35.390 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:35.390 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:35.395 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:35.396 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:35.398 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:35.686 [warning] Creation of workbench contribution 'workbench.contrib.onboarding' took 110ms.
+2026-09-06 10:32:36.140 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:36.478 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:36.480 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:36.482 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:36.483 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:36.484 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:36.485 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:36.486 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:36.487 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:36.490 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:36.491 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:36.493 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:36.494 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-06 10:32:36.733 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:36.761 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:36.762 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:36.763 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:36.770 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:36.771 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:36.781 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:36.782 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:36.786 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:36.788 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:36.793 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:36.805 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:36.812 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-06 10:32:40.132 [info] [perf] Render performance baseline is 137ms
+2026-09-06 10:32:48.630 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/YWE3YzUyYzItZGVhMi00N2U4LThkZmQtYjllZGMzM2M5N2Yz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-06 10:32:48.831 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/YWE3YzUyYzItZGVhMi00N2U4LThkZmQtYjllZGMzM2M5N2Yz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:26:38.844 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/YWE3YzUyYzItZGVhMi00N2U4LThkZmQtYjllZGMzM2M5N2Yz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:26:39.041 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/YWE3YzUyYzItZGVhMi00N2U4LThkZmQtYjllZGMzM2M5N2Yz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:26:39.174 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.chatEditingSession
+2026-09-07 06:26:39.333 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/YWE3YzUyYzItZGVhMi00N2U4LThkZmQtYjllZGMzM2M5N2Yz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:26:43.249 [warning] Creation of workbench contribution 'workbench.contrib.userDataProfiles' took 35ms.
+2026-09-07 06:26:43.317 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-07 06:26:43.880 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey=undefined conversationKey=undefined modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:26:44.806 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:26:44.929 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-07 06:26:45.485 [info] Started local extension host with pid 36226.
+2026-09-07 06:26:46.538 [info] [AgentHost:renderer] Protocol connection established; clientId=1106cd16-0d65-4675-8fce-f5f326e81350
+2026-09-07 06:26:48.235 [info] [RemoteAgentHostProtocol] Mirroring configuration to host root config from DEFAULT: byokModelsEnabled=true (chat.agentHost.byokModels.enabled)
+2026-09-07 06:26:49.002 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-07 06:26:54.008 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-07 06:26:55.274 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:26:55.365 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:26:56.033 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 06:26:56.041 [info] [AgentHost] Clearing authentication for resource: https://api.github.com
+2026-09-07 06:26:56.119 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-07 06:26:56.131 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 06:26:56.139 [info] [AgentHost] Clearing authentication for resource: https://api.github.com/repos
+2026-09-07 06:26:56.182 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-07 06:26:56.628 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:26:56.985 [error] [Extension Host] (node:36226) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-09-07 06:26:56.987 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-07 06:26:57.035 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:26:57.474 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:26:57.838 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:26:58.274 [info] [perf] Render performance baseline is 149ms
+2026-09-07 06:27:14.158 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:29:18.591 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:29:25.199 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:29:28.592 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:29:28.895 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:29:29.448 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:29:41.112 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 06:29:41.273 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 07:51:06.792 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 07:51:06.841 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-07 07:51:06.875 [warning] [lifecycle] onWillShutdown is taking a long time, pending operations: join.closeStorage, join.chatEditingSession
+2026-09-07 07:51:07.177 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/NzdhMGEwNmEtNWVmNS00MzEyLWI5YmYtNjg3Mzc4NTM1NTcz" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"

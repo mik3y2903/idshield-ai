@@ -1,0 +1,183 @@
+2026-09-06 10:32:27.358 [info] Python-envs extension version: 1.36.0
+2026-09-06 10:32:27.358 [info] 
+=== Python Envs Configuration Levels ===
+2026-09-06 10:32:27.358 [info] {
+  "section": "Python Envs Configuration Levels",
+  "defaultEnvManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:venv"
+  },
+  "defaultPackageManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:pip"
+  }
+}
+2026-09-06 10:32:27.358 [info] [pet] Starting Python Locator /root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/python-env-tools/bin/pet server
+2026-09-06 10:32:27.358 [info] Registering pyenv manager (environments will be discovered lazily)
+2026-09-06 10:32:27.358 [info] Registering pipenv manager (environments will be discovered lazily)
+2026-09-06 10:32:27.358 [info] Registering poetry manager (environments will be discovered lazily)
+2026-09-06 10:32:27.850 [info] [pet] configure: Sending configuration update: {"workspaceDirectories":["/home/k7dx/project/backend"],"environmentDirectories":["/home/k7dx/project/backend/.venv","/home/k7dx/project/backend/*/.venv"],"pipenvExecutable":"pipenv","poetryExecutable":"poetry","cacheDirectory":"/home/k7dx/project/backend/~/.vscode-root/User/globalStorage/ms-python.vscode-python-envs/pythonLocator"}
+2026-09-06 10:32:28.381 [info] Discovered env: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:28.642 [info] Resolved environment during PET refresh: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:28.648 [info] Discovered env: /usr/bin/python
+2026-09-06 10:32:29.060 [info] Refreshing Pyenv Environments
+2026-09-06 10:32:29.060 [info] Refreshing pyenv environments
+2026-09-06 10:32:29.060 [info] Refreshing Pipenv Environments
+2026-09-06 10:32:29.060 [info] Refreshing pipenv environments
+2026-09-06 10:32:29.060 [info] Refreshing Poetry Environments
+2026-09-06 10:32:29.060 [info] Refreshing poetry environments
+2026-09-06 10:32:29.177 [info] Discovered env: /usr/bin/python3.13
+2026-09-06 10:32:33.857 [info] Conda not found, turning off conda features. Error: Conda not found
+    at L (/root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:629081)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at processImmediate (node:internal/timers:472:9)
+    at V (/root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:629206)
+    at t.registerCondaFeatures (/root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:648591)
+    at t.safeRegister (/root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:290365)
+    at async Promise.all (index 1)
+    at Immediate.<anonymous> (/root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:782813)
+2026-09-06 10:32:33.876 [info] [interpreterSelection] Applying initial environment selection for 1 workspace folder(s)
+2026-09-06 10:32:35.012 [info] Discovered env: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:35.055 [info] Discovered env: /usr/bin/python
+2026-09-06 10:32:35.188 [info] Discovered env: /usr/bin/python3.13
+2026-09-06 10:32:35.425 [info] Resolved environment during PET refresh: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:35.656 [info] Discovered env: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:35.921 [info] Found venv environment: venv (3.14.6.final.0)
+2026-09-06 10:32:35.961 [info] Discovered env: /usr/bin/python
+2026-09-06 10:32:36.408 [info] Discovered env: /usr/bin/python3.13
+2026-09-06 10:32:36.624 [info] Python API: Changed environment from undefined to venv (3.14.6.final.0) for: /home/k7dx/project/backend
+2026-09-06 10:32:36.625 [info] Internal: Changed environment from undefined to venv (3.14.6.final.0) for: /home/k7dx/project/backend
+2026-09-06 10:32:36.628 [info] [interpreterSelection] backend: venv (3.14.6.final.0) (source: autoDiscovery)
+2026-09-06 10:32:36.629 [info] [interpreterSelection] Workspace env resolved, deferring global scope to background
+2026-09-06 10:32:36.768 [info] Resolved environment during PET refresh: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:36.803 [info] Python API: Changed environment from undefined to Python 3.14.6.final.0 for: global
+2026-09-06 10:32:36.803 [info] Internal: Changed environment from undefined to Python 3.14.6.final.0 for: global
+2026-09-06 10:32:36.803 [info] [interpreterSelection] global: Python 3.14.6.final.0 (source: autoDiscovery)
+2026-09-06 10:32:36.863 [info] Refreshing pyenv environments
+2026-09-06 10:32:36.872 [info] Discovered env: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:36.934 [info] Resolved environment during PET refresh: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:36.968 [info] Pipenv not found via settings, cache, or PATH
+2026-09-06 10:32:36.970 [info] Refreshing pipenv environments
+2026-09-06 10:32:36.982 [info] Pipenv not found via settings, cache, or PATH
+2026-09-06 10:32:36.983 [info] Found 0 pipenv environments
+2026-09-06 10:32:37.043 [info] Pipenv not found via settings, cache, or PATH
+2026-09-06 10:32:37.069 [info] Discovered env: /usr/bin/python
+2026-09-06 10:32:37.072 [info] Refreshing poetry environments
+2026-09-06 10:32:37.080 [info] Poetry executable not found
+2026-09-06 10:32:37.096 [info] Environment discovery complete: 3 environments found (Global: 2, venv: 1)
+2026-09-06 10:32:37.107 [info] Discovered env: /usr/bin/python3.13
+2026-09-06 10:32:37.211 [info] Discovered env: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:37.214 [info] Found venv environment: venv (3.14.6.final.0)
+2026-09-06 10:32:37.258 [info] Python API: Changed environment from venv (3.14.6.final.0) to venv (3.14.6.final.0) for: /home/k7dx/project/backend
+2026-09-06 10:32:37.263 [info] Internal: Changed environment from venv (3.14.6.final.0) to venv (3.14.6.final.0) for: /home/k7dx/project/backend
+2026-09-06 10:32:37.280 [info] Resolved environment during PET refresh: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:37.375 [info] Discovered env: /usr/bin/python
+2026-09-06 10:32:37.399 [info] Discovered env: /usr/bin/python3.13
+2026-09-06 10:32:37.547 [info] Discovered env: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:37.585 [info] Resolved environment during PET refresh: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:38.050 [info] Discovered env: /usr/bin/python
+2026-09-06 10:32:38.237 [info] Discovered env: /usr/bin/python3.13
+2026-09-06 10:32:38.275 [info] Pipenv not found via settings, cache, or PATH
+2026-09-06 10:32:38.275 [info] Found 0 pipenv environments
+2026-09-06 10:32:38.327 [info] Discovered env: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:38.371 [info] Resolved environment during PET refresh: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:38.434 [info] Discovered env: /usr/bin/python
+2026-09-06 10:32:38.449 [info] Discovered env: /usr/bin/python3.13
+2026-09-06 10:32:38.507 [info] Poetry executable not found
+2026-09-07 06:29:28.349 [info] Python-envs extension version: 1.36.0
+2026-09-07 06:29:28.353 [info] 
+=== Python Envs Configuration Levels ===
+2026-09-07 06:29:28.353 [info] {
+  "section": "Python Envs Configuration Levels",
+  "defaultEnvManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:venv"
+  },
+  "defaultPackageManager": {
+    "workspaceFolderValue": "undefined",
+    "workspaceValue": "undefined",
+    "globalValue": "undefined",
+    "defaultValue": "ms-python.python:pip"
+  }
+}
+2026-09-07 06:29:28.353 [info] [pet] Starting Python Locator /root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/python-env-tools/bin/pet server
+2026-09-07 06:29:28.353 [info] Registering pyenv manager (environments will be discovered lazily)
+2026-09-07 06:29:28.353 [info] Registering pipenv manager (environments will be discovered lazily)
+2026-09-07 06:29:28.353 [info] Registering poetry manager (environments will be discovered lazily)
+2026-09-07 06:29:28.484 [info] [pet] configure: Sending configuration update: {"workspaceDirectories":["/home/k7dx/project"],"environmentDirectories":["/home/k7dx/project/.venv","/home/k7dx/project/*/.venv"],"pipenvExecutable":"pipenv","poetryExecutable":"poetry","cacheDirectory":"/home/k7dx/project/backend/~/.vscode-root/User/globalStorage/ms-python.vscode-python-envs/pythonLocator"}
+2026-09-07 06:29:28.689 [info] Discovered env: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:28.805 [info] Discovered env: /usr/bin/python
+2026-09-07 06:29:28.840 [info] Discovered env: /usr/bin/python3.13
+2026-09-07 06:29:29.110 [info] Refreshing Pyenv Environments
+2026-09-07 06:29:29.111 [info] Refreshing pyenv environments
+2026-09-07 06:29:29.111 [info] Refreshing Pipenv Environments
+2026-09-07 06:29:29.111 [info] Refreshing pipenv environments
+2026-09-07 06:29:29.111 [info] Refreshing Poetry Environments
+2026-09-07 06:29:29.111 [info] Refreshing poetry environments
+2026-09-07 06:29:29.195 [info] Resolved environment during PET refresh: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:29.205 [info] Conda not found, turning off conda features. Error: Conda not found
+    at L (/root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:629081)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at processImmediate (node:internal/timers:472:9)
+    at V (/root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:629206)
+    at t.registerCondaFeatures (/root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:648591)
+    at t.safeRegister (/root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:290365)
+    at async Promise.all (index 1)
+    at Immediate.<anonymous> (/root/.vscode/extensions/ms-python.vscode-python-envs-1.36.0-linux-x64/dist/extension.js:2:782813)
+2026-09-07 06:29:29.220 [info] [interpreterSelection] Applying initial environment selection for 1 workspace folder(s)
+2026-09-07 06:29:29.471 [info] Discovered env: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:29.473 [info] Resolved Python Environment /home/k7dx/project/backend/venv/bin/python
+2026-09-07 06:29:29.487 [info] Discovered env: /usr/bin/python
+2026-09-07 06:29:29.488 [info] Discovered env: /usr/bin/python3.13
+2026-09-07 06:29:29.489 [info] Resolved environment during PET refresh: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:29.506 [info] Resolved Python Environment /home/k7dx/project/backend/venv/bin/python
+2026-09-07 06:29:29.514 [info] Found venv environment: venv (3.14.6.final.0)
+2026-09-07 06:29:29.559 [info] Discovered env: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:29.654 [info] Discovered env: /usr/bin/python
+2026-09-07 06:29:29.655 [info] Discovered env: /usr/bin/python3.13
+2026-09-07 06:29:29.680 [info] Resolved environment during PET refresh: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:29.766 [info] Discovered env: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:29.801 [info] Resolved environment during PET refresh: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:29.851 [info] Discovered env: /usr/bin/python
+2026-09-07 06:29:29.861 [info] Discovered env: /usr/bin/python3.13
+2026-09-07 06:29:30.032 [info] Python API: Changed environment from undefined to defaultInterpreterPath: 3.14.6.final.0 for: /home/k7dx/project
+2026-09-07 06:29:30.033 [info] Internal: Changed environment from undefined to defaultInterpreterPath: 3.14.6.final.0 for: /home/k7dx/project
+2026-09-07 06:29:30.035 [info] [interpreterSelection] project: defaultInterpreterPath: 3.14.6.final.0 (source: defaultInterpreterPath)
+2026-09-07 06:29:30.036 [info] [interpreterSelection] Workspace env resolved, deferring global scope to background
+2026-09-07 06:29:30.099 [info] Discovered env: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:30.103 [info] Discovered env: /usr/bin/python
+2026-09-07 06:29:30.104 [info] Discovered env: /usr/bin/python3.13
+2026-09-07 06:29:30.105 [info] Found venv environment: venv (3.14.6.final.0)
+2026-09-07 06:29:30.530 [info] Resolved environment during PET refresh: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:30.532 [info] Python API: Changed environment from undefined to Python 3.14.6.final.0 for: global
+2026-09-07 06:29:30.533 [info] Internal: Changed environment from undefined to Python 3.14.6.final.0 for: global
+2026-09-07 06:29:30.533 [info] [interpreterSelection] global: Python 3.14.6.final.0 (source: autoDiscovery)
+2026-09-07 06:29:30.727 [info] Resolved Python Environment /home/k7dx/project/backend/venv/bin/python
+2026-09-07 06:29:30.737 [info] Refreshing pyenv environments
+2026-09-07 06:29:31.018 [info] Discovered env: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:31.023 [info] Discovered env: /usr/bin/python
+2026-09-07 06:29:31.033 [info] Discovered env: /usr/bin/python3.13
+2026-09-07 06:29:31.040 [info] Python API: Changed environment from defaultInterpreterPath: 3.14.6.final.0 to venv (3.14.6.final.0) for: /home/k7dx/project
+2026-09-07 06:29:31.040 [info] Internal: Changed environment from defaultInterpreterPath: 3.14.6.final.0 to venv (3.14.6.final.0) for: /home/k7dx/project
+2026-09-07 06:29:31.100 [info] Resolved environment during PET refresh: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:31.161 [info] Pipenv not found via settings, cache, or PATH
+2026-09-07 06:29:31.161 [info] Found 0 pipenv environments
+2026-09-07 06:29:31.226 [info] Discovered env: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:31.237 [info] Discovered env: /usr/bin/python
+2026-09-07 06:29:31.241 [info] Pipenv not found via settings, cache, or PATH
+2026-09-07 06:29:31.242 [info] Refreshing pipenv environments
+2026-09-07 06:29:31.245 [info] Resolved environment during PET refresh: /home/k7dx/project/venv/bin/python
+2026-09-07 06:29:31.246 [info] Discovered env: /usr/bin/python3.13
+2026-09-07 06:29:31.246 [info] Pipenv not found via settings, cache, or PATH
+2026-09-07 06:29:31.246 [info] Found 0 pipenv environments
+2026-09-07 06:29:31.249 [info] Pipenv not found via settings, cache, or PATH
+2026-09-07 06:29:31.264 [info] Refreshing poetry environments
+2026-09-07 06:29:31.269 [info] Poetry executable not found
+2026-09-07 06:29:31.280 [info] Environment discovery complete: 3 environments found (Global: 2, venv: 1)
+2026-09-07 06:29:31.379 [info] Poetry executable not found

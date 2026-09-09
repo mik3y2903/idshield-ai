@@ -1,0 +1,25 @@
+2026-09-09 05:04:31.773 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-09 05:04:31.806 [warning] Creation of workbench contribution 'workbench.contrib.agentHostPrewarm' took 23ms.
+2026-09-09 05:04:32.083 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey=undefined conversationKey=undefined modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-09 05:04:32.459 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MzdkZjcwN2UtNWY0OS00Mzc4LWE1ZjItZDI2YjAwYjgyNmM2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-09 05:04:32.486 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-09 05:04:32.942 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MzdkZjcwN2UtNWY0OS00Mzc4LWE1ZjItZDI2YjAwYjgyNmM2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-09 05:04:32.994 [info] Started local extension host with pid 93292.
+2026-09-09 05:04:33.392 [info] [AgentHost:renderer] Protocol connection established; clientId=75185d9a-0c1c-400b-b342-914a3204c9fa
+2026-09-09 05:04:33.803 [info] [RemoteAgentHostProtocol] Mirroring configuration to host root config from DEFAULT: byokModelsEnabled=true (chat.agentHost.byokModels.enabled)
+2026-09-09 05:04:36.265 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-09 05:04:36.864 [error] [Extension Host] (node:93292) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-09-09 05:04:38.628 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-09 05:04:39.074 [info] [AgentHost] Clearing authentication for resource: https://api.github.com
+2026-09-09 05:04:39.859 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MzdkZjcwN2UtNWY0OS00Mzc4LWE1ZjItZDI2YjAwYjgyNmM2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-09 05:04:40.175 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-09 05:04:41.003 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-09 05:04:41.008 [info] [AgentHost] Clearing authentication for resource: https://api.github.com/repos
+2026-09-09 05:04:41.041 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-09 05:04:41.098 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-09 05:04:41.369 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-09 05:04:45.211 [info] [perf] Render performance baseline is 27ms
+2026-09-09 05:04:51.175 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MzdkZjcwN2UtNWY0OS00Mzc4LWE1ZjItZDI2YjAwYjgyNmM2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-09 05:04:51.276 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MzdkZjcwN2UtNWY0OS00Mzc4LWE1ZjItZDI2YjAwYjgyNmM2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-09 05:09:25.534 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MzdkZjcwN2UtNWY0OS00Mzc4LWE1ZjItZDI2YjAwYjgyNmM2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"

@@ -1,0 +1,42 @@
+2026-09-06 10:32:12.273 [info] Agent Host process started successfully
+2026-09-06 10:32:12.356 [info] AgentService initialized
+2026-09-06 10:32:12.411 [info] Registering agent provider: copilotcli
+2026-09-06 10:32:12.425 [info] Registering agent provider: claude
+2026-09-06 10:32:12.435 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-06 10:32:12.499 [info] [Claude] Models refreshed (merged). Count: 0, 
+2026-09-06 10:32:12.696 [info] [WebSocketProtocol] Server listening on socket /tmp/vscode-ah-3e3cb1af14c4/CpaKku1QEL3xcOfSPfI1ZQ.sock
+2026-09-06 10:32:12.738 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-06 10:32:12.782 [info] [CommandAutoApprover] Tree-sitter initialized (bash=available, powershell=available)
+2026-09-06 10:32:12.798 [info] [Copilot] Listing chats to migrate...
+2026-09-06 10:32:12.800 [info] [Copilot] Starting CopilotClient...
+2026-09-06 10:32:12.801 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=vscode-chat
+2026-09-06 10:32:12.811 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-06 10:32:12.817 [info] [Copilot] Resolved CLI path: /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js
+2026-09-06 10:32:13.144 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-06 10:32:13.218 [info] [ProtocolServer] Initialize: clientId=df1b4f9d-6499-4213-ae45-6500ea84123b, protocolVersions=[1.0.0, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1]
+2026-09-06 10:32:13.689 [info] [AgentService] showExternalSessions changed 'none' -> 'recent'; queueing session list reconciliation
+2026-09-06 10:32:19.575 [info] [Copilot] CopilotClient started successfully
+2026-09-06 10:32:19.620 [info] [Copilot] Listed 0 SDK session(s) for chats to migrate
+2026-09-06 10:32:19.620 [info] [Copilot] Found 0 legacy sessions
+2026-09-06 10:32:19.642 [info] [Copilot] Listing discoverable chats...
+2026-09-06 10:32:19.648 [info] [AgentService] listSessions computed 0 of 0 session(s) for mode 'last30Days' in 5914ms (0 state-manager fallback)
+2026-09-06 10:32:19.649 [info] [AgentService] External session reconciliation done in 5919ms (mode: 'recent', previous: 'none'): 0 published, 0 retracted, 0 visible
+2026-09-06 10:32:19.651 [info] [Copilot] Listed 0 SDK session(s) for discoverable chats
+2026-09-06 10:32:19.653 [info] [AgentService] pruned 0 stale external session row(s) older than 30 days
+2026-09-06 10:32:19.661 [info] [Copilot] Chat discovery: 0 SDK session(s) -> 0 external, 0 adoptable legacy extension-host, 0 suppressed adoptable legacy extension-host, 0 suppressed archived legacy extension-host, 0 already known to Agent Host, 0 without a working directory, 0 with unsupported or missing client name, 0 outside the import window, 0 without repository metadata, 0 failed to classify (adopt legacy extension-host chats: false)
+2026-09-06 10:32:19.662 [info] [Claude] SDK not downloaded yet; deferring chat discovery
+2026-09-06 10:32:31.482 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-06 10:32:34.727 [info] [Claude] Auth token unchanged
+2026-09-07 06:26:40.769 [info] [ProtocolServer] Client disconnected: df1b4f9d-6499-4213-ae45-6500ea84123b, subscriptions=1
+2026-09-07 06:26:40.822 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 06:26:43.429 [error] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST fetch failed
+2026-09-07 06:26:44.937 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 06:26:45.468 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 06:26:45.674 [info] [ProtocolServer] Initialize: clientId=1106cd16-0d65-4675-8fce-f5f326e81350, protocolVersions=[1.0.0, 0.9.0, 0.8.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1]
+2026-09-07 06:26:54.307 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-07 06:26:56.035 [info] [Claude] Auth token unchanged
+2026-09-07 07:51:08.223 [info] [ProtocolServer] Client disconnected: 1106cd16-0d65-4675-8fce-f5f326e81350, subscriptions=1
+2026-09-07 07:51:08.354 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 07:51:08.404 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-07 07:51:08.619 [info] AgentService: shutting down all providers...
+2026-09-07 07:51:08.624 [info] [Copilot] Shutting down...

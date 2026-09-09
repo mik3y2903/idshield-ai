@@ -1,0 +1,66 @@
+2026-09-09 11:47:46.273 [info] [main] Log level: Info
+2026-09-09 11:47:46.273 [info] [main] Validating found git in: "git"
+2026-09-09 11:47:46.273 [info] [main] Using git "2.53.0" from "git"
+2026-09-09 11:47:46.273 [info] [Model][doInitialScan] Initial repository scan started
+2026-09-09 11:47:46.273 [info] > git rev-parse --show-toplevel [29ms]
+2026-09-09 11:47:46.273 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:46.299 [info] > git rev-parse --show-toplevel [90ms]
+2026-09-09 11:47:46.299 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:51.159 [info] > git rev-parse --show-toplevel [4823ms]
+2026-09-09 11:47:51.159 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:53.558 [info] > git rev-parse --show-toplevel [1022ms]
+2026-09-09 11:47:53.558 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:54.543 [info] > git rev-parse --show-toplevel [262ms]
+2026-09-09 11:47:54.543 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:54.628 [info] > git rev-parse --show-toplevel [53ms]
+2026-09-09 11:47:54.629 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:54.867 [info] > git rev-parse --show-toplevel [213ms]
+2026-09-09 11:47:54.867 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:54.872 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2026-09-09 11:47:54.941 [info] > git rev-parse --show-toplevel [31ms]
+2026-09-09 11:47:54.942 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:54.995 [info] > git rev-parse --show-toplevel [19ms]
+2026-09-09 11:47:54.995 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:55.039 [info] > git rev-parse --show-toplevel [24ms]
+2026-09-09 11:47:55.039 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:55.110 [info] > git rev-parse --show-toplevel [32ms]
+2026-09-09 11:47:55.111 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:55.338 [info] > git rev-parse --show-toplevel [193ms]
+2026-09-09 11:47:55.338 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:55.448 [info] > git rev-parse --show-toplevel [41ms]
+2026-09-09 11:47:55.448 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:55.490 [info] > git rev-parse --show-toplevel [19ms]
+2026-09-09 11:47:55.493 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:47:55.522 [info] > git rev-parse --show-toplevel [10ms]
+2026-09-09 11:47:55.522 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 11:48:01.080 [info] > git rev-parse --show-toplevel [7ms]
+2026-09-09 11:48:01.080 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 12:01:16.205 [info] > git rev-parse --show-toplevel [8ms]
+2026-09-09 12:01:16.210 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 12:01:16.229 [info] > git rev-parse --show-toplevel [2ms]
+2026-09-09 12:01:16.229 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 12:03:06.836 [info] > git rev-parse --show-toplevel [2ms]
+2026-09-09 12:03:06.837 [info] fatal: not a git repository (or any of the parent directories): .git
+2026-09-09 12:04:22.402 [info] > git rev-parse --show-toplevel [7ms]
+2026-09-09 12:04:22.449 [info] > git rev-parse --git-dir --git-common-dir --show-superproject-working-tree [27ms]
+2026-09-09 12:04:22.559 [info] [Model][openRepository] Opened repository (path): /home/k7dx/project
+2026-09-09 12:04:22.559 [info] [Model][openRepository] Opened repository (real path): /home/k7dx/project
+2026-09-09 12:04:22.559 [info] [Model][openRepository] Opened repository (kind): repository
+2026-09-09 12:04:22.654 [info] > git config --get commit.template [43ms]
+2026-09-09 12:04:22.655 [info] > git config --get --local core.virtualfilesystem [65ms]
+2026-09-09 12:04:22.655 [warning] [Git][config] git config failed: Failed to execute git
+2026-09-09 12:04:22.666 [info] [Git][getRemotes] No remotes found in the git config file
+2026-09-09 12:04:22.689 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2026-09-09 12:04:22.691 [warning] [Git][getBranch] No such branch: master
+2026-09-09 12:04:22.754 [info] > git status -z -uall [43ms]
+2026-09-09 12:04:22.763 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [16ms]
+2026-09-09 12:04:23.419 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [485ms]
+2026-09-09 12:04:23.419 [warning] [Git][getBranch] No such branch: master
+2026-09-09 12:04:23.422 [error] [GitHistoryProvider][resolveHEADMergeBase] Failed to resolve merge base for master: Error: No such branch: master.
+2026-09-09 12:04:23.544 [info] > git check-ignore -v -z --stdin [82ms]
+2026-09-09 12:04:23.548 [info] > git config --get commit.template [130ms]
+2026-09-09 12:04:23.637 [info] [Git][getRemotes] No remotes found in the git config file
+2026-09-09 12:04:23.652 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [16ms]
+2026-09-09 12:04:23.652 [warning] [Git][getBranch] No such branch: master
+2026-09-09 12:04:23.756 [info] > git status -z -uall [79ms]
+2026-09-09 12:04:23.756 [info] > git for-each-ref --sort -committerdate --format %(refname)%00%(objectname)%00%(*objectname) [30ms]

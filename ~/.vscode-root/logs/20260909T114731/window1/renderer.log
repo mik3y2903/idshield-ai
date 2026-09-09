@@ -1,0 +1,28 @@
+2026-09-09 11:47:34.692 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 42ms.
+2026-09-09 11:47:35.004 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-09 11:47:35.417 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey=undefined conversationKey=undefined modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-09 11:47:36.718 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/YjJkNmJlNTEtZWZkMC00YzE5LTg4MDctNzk1YmFjYjI3ZGU3" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-09 11:47:36.978 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-09 11:47:37.585 [info] Started local extension host with pid 97760.
+2026-09-09 11:47:37.854 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/YjJkNmJlNTEtZWZkMC00YzE5LTg4MDctNzk1YmFjYjI3ZGU3" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-09 11:47:40.034 [info] [AgentHost:renderer] Protocol connection established; clientId=87b94777-aa33-4251-b13a-0ecd49c439be
+2026-09-09 11:47:42.637 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-09 11:47:44.729 [error] [Extension Host] (node:97760) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-09-09 11:47:51.075 [info] Extension host (LocalProcess pid: 97760) is unresponsive.
+2026-09-09 11:47:51.336 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-09 11:47:51.408 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/YjJkNmJlNTEtZWZkMC00YzE5LTg4MDctNzk1YmFjYjI3ZGU3" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-09 11:47:51.609 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-09 11:47:52.441 [info] Extension host (LocalProcess pid: 97760) is responsive.
+2026-09-09 11:47:53.671 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-09 11:47:53.742 [info] [AgentHost] Clearing authentication for resource: https://api.github.com
+2026-09-09 11:47:54.491 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-09 11:47:54.493 [info] [AgentHost] Clearing authentication for resource: https://api.github.com/repos
+2026-09-09 11:47:54.590 [info] [AgentHost] No token resolved for resource: https://api.github.com
+2026-09-09 11:47:54.635 [info] [AgentHost] No token resolved for resource: https://api.github.com/repos
+2026-09-09 11:48:03.056 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/YjJkNmJlNTEtZWZkMC00YzE5LTg4MDctNzk1YmFjYjI3ZGU3" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-09 11:48:04.047 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/YjJkNmJlNTEtZWZkMC00YzE5LTg4MDctNzk1YmFjYjI3ZGU3" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-09 11:50:25.760 [warning] Creation of workbench contribution 'workbench.contrib.chatCompatNotifier' took 449ms.
+2026-09-09 11:51:25.198 [warning] Creation of workbench contribution 'chat.modelFeedbackSurveyPrompt' took 162ms.
+2026-09-09 11:52:25.371 [warning] Creation of workbench contribution 'chat.implicitContext' took 331ms.
+2026-09-09 11:54:25.439 [warning] Creation of workbench contribution 'chat.builtinTools' took 407ms.

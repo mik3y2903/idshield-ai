@@ -1,0 +1,39 @@
+{
+  "environment": {
+    "executable": "/home/k7dx/project/backend/venv/bin/python",
+    "prefix": "/home/k7dx/project/backend/venv",
+    "version": "3.14.6.final.0",
+    "is64Bit": true,
+    "symlinks": [
+      "/home/k7dx/project/backend/venv/bin/python",
+      "/home/k7dx/project/backend/venv/bin/python3",
+      "/home/k7dx/project/backend/venv/bin/python3.14"
+    ]
+  },
+  "symlinks": [
+    [
+      "/home/k7dx/project/backend/venv/bin/python",
+      {
+        "secs_since_epoch": 1781117671,
+        "nanos_since_epoch": 0
+      },
+      null
+    ],
+    [
+      "/home/k7dx/project/backend/venv/bin/python3",
+      {
+        "secs_since_epoch": 1781117671,
+        "nanos_since_epoch": 0
+      },
+      null
+    ],
+    [
+      "/home/k7dx/project/backend/venv/bin/python3.14",
+      {
+        "secs_since_epoch": 1781117671,
+        "nanos_since_epoch": 0
+      },
+      null
+    ]
+  ]
+}

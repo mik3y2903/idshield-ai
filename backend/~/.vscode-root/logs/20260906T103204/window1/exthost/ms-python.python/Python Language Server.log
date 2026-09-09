@@ -1,0 +1,95 @@
+2026-09-06 10:32:41.941 [info] Client: Pylance client (2026.3.1) started with python extension (2026.4.0)
+2026-09-06 10:32:43.286 [info] (20207): Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-09-06 10:32:43.286 [info] (20207): Pylance language server 2026.3.1 (pyright version 1.1.411, commit 9a9205fc) starting
+2026-09-06 10:32:43.286 [info] (20207): Starting service instance "backend" for workspace "/home/k7dx/project/backend"
+2026-09-06 10:32:47.197 [info] (20207): Loading background bundle file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist/copilot-background.bundle.js into file:///home/k7dx/project/backend...
+2026-09-06 10:32:48.046 [info] (20207): Starting Mcp server id:33670 ...
+2026-09-06 10:32:48.345 [info] (20207): FG(backend): Setting environmentName for service "backend": "venv (3.14.6.final.0)"
+2026-09-06 10:32:48.364 [info] (20207): FG(backend): Setting pythonPath for service "backend": "/home/k7dx/project/backend/venv/bin/python"
+2026-09-06 10:32:48.393 [info] (20207): FG(backend): No include entries specified; assuming /home/k7dx/project/backend
+2026-09-06 10:32:48.414 [info] (20207): FG(backend): Auto-excluding **/node_modules
+2026-09-06 10:32:48.423 [info] (20207): FG(backend): Auto-excluding **/__pycache__
+2026-09-06 10:32:48.439 [info] (20207): FG(backend): Auto-excluding **/.*
+2026-09-06 10:32:49.188 [info] (20207): FG(backend): Assuming Python version 3.14.6.final.0
+2026-09-06 10:32:51.024 [info] (20207): FG(backend): Auto-excluding /home/k7dx/project/backend/venv
+2026-09-06 10:32:51.030 [info] (20207): FG(backend): Found 3 source files
+2026-09-06 10:32:51.126 [info] (20207): Settings have not changed. Skipping update.
+2026-09-06 10:32:53.928 [info] (20207): PQ(backend): Priority queue background worker(2) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-09-06 10:32:53.928 [info] (20207): PQ(backend): Priority queue background worker(2) started
+2026-09-06 10:32:54.015 [info] (20207): [Editable Installs] Starting dynamic pth file resolution for Python: /home/k7dx/project/backend/venv/bin/python
+2026-09-06 10:32:54.101 [info] (20207): [Editable Installs] No sandbox available for Python /home/k7dx/project/backend/venv/bin/python. Dynamic pth file resolution requires Python 3.13 or later.
+2026-09-06 10:32:56.720 [info] (20207): FG(backend): IDX(backend): Indexer background runner(3) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist (index)
+2026-09-06 10:32:56.721 [info] (20207): FG(backend): IDX(backend): Indexing(3) started
+2026-09-06 10:33:02.011 [info] (20207): FG(backend): IDX(backend): Long operation: scan packages file:///home/k7dx/project/backend (4805ms)
+2026-09-06 10:33:02.012 [info] (20207): FG(backend): IDX(backend): scanned(3) 290 files over 1 exec env
+2026-09-06 10:33:11.267 [info] (20207): BG(backend): Long operation: SemanticTokens range 811:0 - 895:80 at file:///home/k7dx/project/backend/main.py (16709ms)
+2026-09-06 10:33:16.247 [info] (20207): BG(backend): Long operation: checking: file:///home/k7dx/project/backend/main.py (4930ms)
+2026-09-06 10:33:16.247 [info] (20207): BG(backend): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (4931ms)
+2026-09-06 10:33:20.771 [info] (20207): FG(backend): IDX(backend): Long operation: index execution environment file:///home/k7dx/project/backend (17889ms)
+2026-09-06 10:33:20.816 [info] (20207): FG(backend): IDX(backend): Long operation: index packages file:///home/k7dx/project/backend (18042ms)
+2026-09-06 10:33:20.817 [info] (20207): FG(backend): IDX(backend): indexed(3) 290 files over 1 exec env
+2026-09-06 10:33:21.134 [info] (20207): FG(backend): IDX(backend): Indexing finished(3).
+2026-09-06 10:33:24.538 [info] (20207): BG(backend): Long operation: SemanticTokens full at file:///home/k7dx/project/backend/main.py (8249ms)
+2026-09-06 10:34:33.782 [info] (20207): BG(backend): Long operation: checking: file:///home/k7dx/project/backend/main.py (3726ms)
+2026-09-06 10:34:33.783 [info] (20207): BG(backend): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (3816ms)
+2026-09-06 10:34:39.278 [info] (20207): BG(backend): Long operation: SemanticTokens delta previousResultId:1788671006622 at file:///home/k7dx/project/backend/main.py (5482ms)
+2026-09-06 10:34:45.835 [info] (20207): BG(backend): Long operation: SemanticTokens delta previousResultId:1788671006622 at file:///home/k7dx/project/backend/main.py (6538ms)
+2026-09-06 10:35:05.072 [info] (20207): BG(backend): Long operation: checking: file:///home/k7dx/project/backend/main.py (2578ms)
+2026-09-06 10:35:05.074 [info] (20207): BG(backend): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (2579ms)
+2026-09-06 10:35:09.247 [info] (20207): BG(backend): Long operation: SemanticTokens delta previousResultId:1788671087873 at file:///home/k7dx/project/backend/main.py (4157ms)
+2026-09-07 06:29:34.505 [info] Client: Pylance client (2026.3.1) started with python extension (2026.4.0)
+2026-09-07 06:29:36.306 [info] (38254): Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-09-07 06:29:36.311 [info] (38254): Pylance language server 2026.3.1 (pyright version 1.1.411, commit 9a9205fc) starting
+2026-09-07 06:29:36.315 [info] (38254): Starting service instance "project" for workspace "/home/k7dx/project"
+2026-09-07 06:29:39.939 [info] (38254): Loading background bundle file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist/copilot-background.bundle.js into file:///home/k7dx/project...
+2026-09-07 06:29:40.405 [info] (38254): Starting Mcp server id:34017 ...
+2026-09-07 06:29:40.658 [info] (38254): FG(project): Setting environmentName for service "project": "venv (3.14.6.final.0)"
+2026-09-07 06:29:40.664 [info] (38254): FG(project): Setting pythonPath for service "project": "/home/k7dx/project/backend/venv/bin/python"
+2026-09-07 06:29:40.674 [info] (38254): FG(project): No include entries specified; assuming /home/k7dx/project
+2026-09-07 06:29:40.684 [info] (38254): FG(project): Auto-excluding **/node_modules
+2026-09-07 06:29:40.687 [info] (38254): FG(project): Auto-excluding **/__pycache__
+2026-09-07 06:29:40.692 [info] (38254): FG(project): Auto-excluding **/.*
+2026-09-07 06:29:40.921 [info] (38254): FG(project): Assuming Python version 3.14.6.final.0
+2026-09-07 06:29:41.671 [info] (38254): FG(project): Auto-excluding /home/k7dx/project/backend/venv
+2026-09-07 06:29:41.697 [info] (38254): FG(project): Auto-excluding /home/k7dx/project/venv
+2026-09-07 06:29:41.699 [info] (38254): FG(project): Found 3 source files
+2026-09-07 06:29:41.765 [info] (38254): Settings have not changed. Skipping update.
+2026-09-07 06:29:43.319 [info] (38254): PQ(project): Priority queue background worker(2) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-09-07 06:29:43.321 [info] (38254): PQ(project): Priority queue background worker(2) started
+2026-09-07 06:29:43.445 [info] (38254): [Editable Installs] Starting dynamic pth file resolution for Python: /home/k7dx/project/backend/venv/bin/python
+2026-09-07 06:29:43.483 [info] (38254): [Editable Installs] No sandbox available for Python /home/k7dx/project/backend/venv/bin/python. Dynamic pth file resolution requires Python 3.13 or later.
+2026-09-07 06:29:45.832 [info] (38254): FG(project): IDX(project): Indexer background runner(3) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist (index)
+2026-09-07 06:29:45.834 [info] (38254): FG(project): IDX(project): Indexing(3) started
+2026-09-07 06:29:49.240 [info] (38254): FG(project): IDX(project): Long operation: scan packages file:///home/k7dx/project (3039ms)
+2026-09-07 06:29:49.240 [info] (38254): FG(project): IDX(project): scanned(3) 128 files over 1 exec env
+2026-09-07 06:29:50.247 [info] (38254): FG(project): IDX(project): indexed(3) 128 files over 1 exec env
+2026-09-07 06:29:50.445 [info] (38254): FG(project): IDX(project): Indexing finished(3).
+2026-09-07 06:29:51.170 [info] (38254): BG(project): Long operation: SemanticTokens range 837:0 - 898:80 at file:///home/k7dx/project/backend/main.py (7189ms)
+2026-09-07 06:29:58.305 [info] (38254): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (7060ms)
+2026-09-07 06:29:58.307 [info] (38254): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (7062ms)
+2026-09-07 06:30:06.292 [info] (38254): BG(project): Long operation: SemanticTokens full at file:///home/k7dx/project/backend/main.py (7896ms)
+2026-09-07 06:31:16.563 [info] (38254): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (3552ms)
+2026-09-07 06:31:16.565 [info] (38254): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (3552ms)
+2026-09-07 06:31:21.332 [info] (38254): BG(project): Long operation: SemanticTokens delta previousResultId:1788742808402 at file:///home/k7dx/project/backend/main.py (4742ms)
+2026-09-07 06:31:25.371 [info] (38254): BG(project): Long operation: SemanticTokens delta previousResultId:1788742808402 at file:///home/k7dx/project/backend/main.py (4018ms)
+2026-09-07 06:31:55.335 [info] (38254): BG(project): Long operation: SemanticTokens delta previousResultId:1788742892077 at file:///home/k7dx/project/backend/main.py (4362ms)
+2026-09-07 06:35:02.537 [info] (38254): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (2066ms)
+2026-09-07 06:35:02.540 [info] (38254): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (2068ms)
+2026-09-07 06:35:04.866 [info] (38254): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (2262ms)
+2026-09-07 06:35:04.869 [info] (38254): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (2263ms)
+2026-09-07 06:35:11.017 [info] (38254): BG(project): Long operation: SemanticTokens delta previousResultId:1788743047638 at file:///home/k7dx/project/backend/main.py (6142ms)
+2026-09-07 06:43:37.711 [info] (38254): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (6798ms)
+2026-09-07 06:43:37.711 [info] (38254): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (6798ms)
+2026-09-07 06:43:43.110 [info] (38254): BG(project): Long operation: SemanticTokens delta previousResultId:1788743604615 at file:///home/k7dx/project/backend/main.py (5373ms)
+2026-09-07 06:44:21.209 [info] (38254): BG(project): Long operation: SemanticTokens delta previousResultId:1788743625184 at file:///home/k7dx/project/backend/main.py (3409ms)
+2026-09-07 06:44:24.304 [info] (38254): BG(project): Long operation: SemanticTokens delta previousResultId:1788743625184 at file:///home/k7dx/project/backend/main.py (3062ms)
+2026-09-07 06:44:33.522 [info] (38254): BG(project): Long operation: SemanticTokens delta previousResultId:1788743666422 at file:///home/k7dx/project/backend/main.py (3824ms)
+2026-09-07 07:24:18.192 [info] (38254): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (2371ms)
+2026-09-07 07:24:18.195 [info] (38254): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (2372ms)
+2026-09-07 07:24:22.555 [info] (38254): BG(project): Long operation: SemanticTokens delta previousResultId:1788745928061 at file:///home/k7dx/project/backend/main.py (4347ms)
+2026-09-07 07:24:54.439 [info] (38254): BG(project): Long operation: SemanticTokens delta previousResultId:1788746063948 at file:///home/k7dx/project/backend/main.py (3652ms)
+2026-09-07 07:25:16.068 [info] (38254): BG(project): Long operation: SemanticTokens delta previousResultId:1788746102651 at file:///home/k7dx/project/backend/main.py (3578ms)
+2026-09-07 07:33:02.157 [info] (38254): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (2308ms)
+2026-09-07 07:33:02.157 [info] (38254): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (2308ms)
+2026-09-07 07:33:05.987 [info] (38254): BG(project): Long operation: SemanticTokens delta previousResultId:1788746571827 at file:///home/k7dx/project/backend/main.py (3319ms)
+2026-09-07 07:33:19.805 [info] (38254): BG(project): Long operation: SemanticTokens delta previousResultId:1788746587225 at file:///home/k7dx/project/backend/main.py (4522ms)

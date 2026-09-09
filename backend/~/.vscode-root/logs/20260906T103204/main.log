@@ -1,0 +1,16 @@
+2026-09-06 10:32:04.627 [info] StorageMainService: creating application shared storage
+2026-09-06 10:32:05.083 [info] [shared storage] Creating shared storage database at '/root/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-09-06 10:32:05.085 [info] [shared storage] Initializing fallback application storage (path: /home/k7dx/project/backend/~/.vscode-root/User/globalStorage/state.vscdb)
+2026-09-06 10:32:05.229 [info] [shared storage] Fallback application storage initialized with 3 items
+2026-09-06 10:32:10.627 [info] update#setState idle
+2026-09-06 10:32:10.789 [info] AgentHostProcessManager: agent host started
+2026-09-06 10:32:12.480 [error] [AgentHost:stderr] (node:19289) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+
+2026-09-06 10:32:40.629 [info] update#setState checking for updates
+2026-09-06 10:32:40.768 [info] update#setState idle
+2026-09-07 06:26:38.633 [info] Extension host with pid 19368 exited with code: 0, signal: unknown.
+2026-09-07 07:00:58.265 [info] update#setState checking for updates
+2026-09-07 07:00:59.084 [info] update#setState idle
+2026-09-07 07:51:06.194 [warning] No ptyHost heartbeat after 6 seconds
+2026-09-07 07:51:08.032 [info] Extension host with pid 36226 exited with code: 0, signal: unknown.

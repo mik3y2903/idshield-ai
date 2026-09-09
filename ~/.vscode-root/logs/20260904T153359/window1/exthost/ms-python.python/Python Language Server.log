@@ -1,0 +1,163 @@
+2026-09-04 17:16:17.599 [info] Client: Pylance client (2026.3.1) started with python extension (2026.4.0)
+2026-09-04 17:16:18.516 [info] (74493): Server root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-09-04 17:16:18.520 [info] (74493): Pylance language server 2026.3.1 (pyright version 1.1.411, commit 9a9205fc) starting
+2026-09-04 17:16:18.529 [info] (74493): Starting service instance "project" for workspace "/home/k7dx/project"
+2026-09-04 17:16:20.195 [info] (74493): Loading background bundle file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist/copilot-background.bundle.js into file:///home/k7dx/project...
+2026-09-04 17:16:20.306 [info] (74493): Starting Mcp server id:36105 ...
+2026-09-04 17:16:20.347 [info] (74493): FG(project): Setting environmentName for service "project": "Python 3.14.6.final.0"
+2026-09-04 17:16:20.347 [info] (74493): FG(project): Setting pythonPath for service "project": "/usr/bin/python"
+2026-09-04 17:16:20.348 [info] (74493): FG(project): No include entries specified; assuming /home/k7dx/project
+2026-09-04 17:16:20.349 [info] (74493): FG(project): Auto-excluding **/node_modules
+2026-09-04 17:16:20.351 [info] (74493): FG(project): Auto-excluding **/__pycache__
+2026-09-04 17:16:20.351 [info] (74493): FG(project): Auto-excluding **/.*
+2026-09-04 17:16:20.391 [info] (74493): FG(project): Assuming Python version 3.14.6.final.0
+2026-09-04 17:16:20.572 [info] (74493): FG(project): Auto-excluding /home/k7dx/project/backend/venv
+2026-09-04 17:16:20.573 [info] (74493): FG(project): Found 1 source file
+2026-09-04 17:16:20.576 [info] (74493): Settings have not changed. Skipping update.
+2026-09-04 17:16:20.595 [info] (74493): [Editable Installs] Starting dynamic pth file resolution for Python: /usr/bin/python
+2026-09-04 17:16:20.616 [info] (74493): [Editable Installs] No sandbox available for Python /usr/bin/python. Dynamic pth file resolution requires Python 3.13 or later.
+2026-09-04 17:16:21.759 [info] (74493): PQ(project): Priority queue background worker(2) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-09-04 17:16:21.779 [info] (74493): PQ(project): Priority queue background worker(2) started
+2026-09-04 17:16:22.670 [info] (74493): FG(project): IDX(project): Indexer background runner(3) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist (index)
+2026-09-04 17:16:22.675 [info] (74493): FG(project): IDX(project): Indexing(3) started
+2026-09-04 17:16:27.030 [info] (74493): FG(project): IDX(project): Long operation: scan packages file:///home/k7dx/project (3721ms)
+2026-09-04 17:16:27.030 [info] (74493): FG(project): IDX(project): scanned(3) 41 files over 1 exec env
+2026-09-04 17:16:29.421 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (5179ms)
+2026-09-04 17:16:29.427 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (6876ms)
+2026-09-04 17:16:30.761 [info] (74493): FG(project): IDX(project): Long operation: index execution environment file:///home/k7dx/project (2828ms)
+2026-09-04 17:16:30.772 [info] (74493): FG(project): IDX(project): Long operation: index packages file:///home/k7dx/project (2970ms)
+2026-09-04 17:16:30.773 [info] (74493): FG(project): IDX(project): indexed(3) 41 files over 1 exec env
+2026-09-04 17:16:30.796 [info] (74493): FG(project): IDX(project): Indexing finished(3).
+2026-09-04 17:54:26.366 [info] (74493): Settings have not changed. Skipping update.
+2026-09-04 17:54:26.413 [info] (74493): Settings have not changed. Skipping update.
+2026-09-04 17:54:27.417 [info] (74493): FG(project): Setting environmentName for service "project": "defaultInterpreterPath: 3.14.6.final.0"
+2026-09-04 17:54:27.419 [info] (74493): FG(project): Setting pythonPath for service "project": "/home/k7dx/project/backend/venv/bin/python"
+2026-09-04 17:54:27.422 [info] (74493): FG(project): No include entries specified; assuming /home/k7dx/project
+2026-09-04 17:54:27.431 [info] (74493): FG(project): Auto-excluding **/node_modules
+2026-09-04 17:54:27.431 [info] (74493): FG(project): Auto-excluding **/__pycache__
+2026-09-04 17:54:27.431 [info] (74493): FG(project): Auto-excluding **/.*
+2026-09-04 17:54:27.626 [info] (74493): FG(project): Assuming Python version 3.14.6.final.0
+2026-09-04 17:54:30.217 [info] (74493): [Editable Installs] Starting dynamic pth file resolution for Python: /home/k7dx/project/backend/venv/bin/python
+2026-09-04 17:54:30.326 [info] (74493): [Editable Installs] No sandbox available for Python /home/k7dx/project/backend/venv/bin/python. Dynamic pth file resolution requires Python 3.13 or later.
+2026-09-04 17:54:30.340 [info] (74493): FG(project): Auto-excluding /home/k7dx/project/backend/venv
+2026-09-04 17:54:30.340 [info] (74493): FG(project): Found 1 source file
+2026-09-04 17:54:30.395 [info] (74493): Settings have not changed. Skipping update.
+2026-09-04 17:54:32.311 [info] (74493): BG(project): Long operation: indexing: file:///home/k7dx/project/backend/main.py (2189ms)
+2026-09-04 17:54:33.506 [info] (74493): FG(project): IDX(project): Indexer background runner(4) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist (index)
+2026-09-04 17:54:33.511 [info] (74493): FG(project): IDX(project): Indexing(4) started
+2026-09-04 17:54:37.637 [info] (74493): FG(project): IDX(project): Long operation: scan packages file:///home/k7dx/project (3155ms)
+2026-09-04 17:54:37.643 [info] (74493): FG(project): IDX(project): scanned(4) 54 files over 1 exec env
+2026-09-04 17:54:47.048 [info] (74493): FG(project): IDX(project): Long operation: index execution environment file:///home/k7dx/project (7717ms)
+2026-09-04 17:54:47.154 [info] (74493): FG(project): IDX(project): Long operation: index packages file:///home/k7dx/project (7883ms)
+2026-09-04 17:54:47.158 [info] (74493): FG(project): IDX(project): indexed(4) 54 files over 1 exec env
+2026-09-04 17:54:47.412 [info] (74493): FG(project): IDX(project): Indexing finished(4).
+2026-09-04 17:54:49.320 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (18241ms)
+2026-09-04 17:54:49.321 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (18247ms)
+2026-09-04 17:59:15.473 [info] (74493): Settings have not changed. Skipping update.
+2026-09-04 17:59:17.344 [info] (74493): virtual workspace: vscode-terminal:/
+2026-09-04 17:59:17.348 [info] (74493): Starting service instance "<default>" for workspace "vscode-terminal:/"
+2026-09-04 17:59:17.724 [info] (74493): FG(<default>): Setting environmentName for service "<default>": "Python 3.14.6.final.0"
+2026-09-04 17:59:17.737 [info] (74493): FG(<default>): No include entries specified; assuming vscode-terminal:/
+2026-09-04 17:59:17.738 [info] (74493): FG(<default>): Auto-excluding **/node_modules
+2026-09-04 17:59:17.750 [info] (74493): FG(<default>): Auto-excluding **/__pycache__
+2026-09-04 17:59:17.757 [info] (74493): FG(<default>): Auto-excluding **/.*
+2026-09-04 17:59:18.122 [info] (74493): FG(<default>): Assuming Python version 3.14.6.final.0
+2026-09-04 17:59:18.489 [info] (74493): [Editable Installs] Starting dynamic pth file resolution for Python: 
+2026-09-04 17:59:18.642 [info] (74493): [Editable Installs] No sandbox available for Python . Dynamic pth file resolution requires Python 3.13 or later.
+2026-09-04 17:59:18.661 [info] (74493): FG(<default>): Skipping file enumeration for non-file URI scheme "vscode-terminal".
+2026-09-04 17:59:18.663 [info] (74493): FG(<default>): No source files found.
+2026-09-04 17:59:44.786 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (3016ms)
+2026-09-04 17:59:44.787 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (3016ms)
+2026-09-04 18:02:19.080 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (4043ms)
+2026-09-04 18:02:19.080 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (4043ms)
+2026-09-04 18:04:36.452 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (4199ms)
+2026-09-04 18:04:36.453 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (4199ms)
+2026-09-04 18:11:33.891 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (5223ms)
+2026-09-04 18:11:33.891 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (5224ms)
+2026-09-04 18:14:03.483 [info] (74493): FG(project): Auto-excluding /home/k7dx/project/backend/venv
+2026-09-04 18:14:03.493 [info] (74493): FG(project): Found 2 source files
+2026-09-04 18:14:08.479 [info] (74493): BG(project): Long operation: SemanticTokens range 0:0 - 53:59 at file:///home/k7dx/project/backend/fake.py (2202ms)
+2026-09-04 18:14:18.448 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (8794ms)
+2026-09-04 18:14:18.448 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (8794ms)
+2026-09-04 18:15:26.226 [info] (74493): FG(project): Auto-excluding /home/k7dx/project/backend/venv
+2026-09-04 18:15:26.236 [info] (74493): FG(project): Found 2 source files
+2026-09-04 18:15:32.915 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (5244ms)
+2026-09-04 18:15:32.916 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (5287ms)
+2026-09-04 18:16:02.151 [info] (74493): FG(project): Setting environmentName for service "project": "venv (3.14.6.final.0)"
+2026-09-04 18:16:02.152 [info] (74493): FG(project): Setting pythonPath for service "project": "/home/k7dx/project/backend/venv/bin/python"
+2026-09-04 18:16:02.152 [info] (74493): FG(project): No include entries specified; assuming /home/k7dx/project
+2026-09-04 18:16:02.152 [info] (74493): FG(project): Auto-excluding **/node_modules
+2026-09-04 18:16:02.153 [info] (74493): FG(project): Auto-excluding **/__pycache__
+2026-09-04 18:16:02.153 [info] (74493): FG(project): Auto-excluding **/.*
+2026-09-04 18:16:02.250 [info] (74493): FG(project): Assuming Python version 3.14.6.final.0
+2026-09-04 18:16:02.865 [info] (74493): FG(project): Auto-excluding /home/k7dx/project/backend/venv
+2026-09-04 18:16:02.869 [info] (74493): FG(project): Auto-excluding /home/k7dx/project/venv
+2026-09-04 18:16:02.870 [info] (74493): FG(project): Found 2 source files
+2026-09-04 18:16:05.688 [info] (74493): FG(project): IDX(project): Indexer background runner(5) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist (index)
+2026-09-04 18:16:05.692 [info] (74493): FG(project): IDX(project): Indexing(5) started
+2026-09-04 18:16:06.995 [info] (74493): FG(project): IDX(project): scanned(5) 54 files over 1 exec env
+2026-09-04 18:16:08.330 [info] (74493): FG(project): IDX(project): indexed(5) 54 files over 1 exec env
+2026-09-04 18:16:08.527 [info] (74493): FG(project): IDX(project): Indexing finished(5).
+2026-09-04 18:16:11.843 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (6103ms)
+2026-09-04 18:16:11.844 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (6104ms)
+2026-09-04 18:23:46.382 [info] (74493): Starting service instance "<default>" for workspace ""
+2026-09-04 18:23:46.407 [info] (74493): Loading background bundle file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist/copilot-background.bundle.js into ...
+2026-09-04 18:23:46.620 [info] (74493): FG(<default>): Setting environmentName for service "<default>": "Python 3.14.6.final.0"
+2026-09-04 18:23:46.622 [info] (74493): FG(<default>): Setting pythonPath for service "<default>": "/usr/bin/python"
+2026-09-04 18:23:46.623 [info] (74493): FG(<default>): No include entries specified; assuming /<default workspace root>
+2026-09-04 18:23:46.623 [info] (74493): FG(<default>): Auto-excluding **/node_modules
+2026-09-04 18:23:46.624 [info] (74493): FG(<default>): Auto-excluding **/__pycache__
+2026-09-04 18:23:46.624 [info] (74493): FG(<default>): Auto-excluding **/.*
+2026-09-04 18:23:46.790 [info] (74493): FG(<default>): Assuming Python version 3.14.6.final.0
+2026-09-04 18:23:47.172 [error] (74493): FG(<default>): File or directory "/<default workspace root>" does not exist.
+2026-09-04 18:23:47.174 [info] (74493): FG(<default>): No source files found.
+2026-09-04 18:23:50.822 [info] (74493): PQ(<default>): Priority queue background worker(7) root directory: file:///root/.vscode/extensions/ms-python.vscode-pylance-2026.3.1/dist
+2026-09-04 18:23:50.850 [info] (74493): PQ(<default>): Priority queue background worker(7) started
+2026-09-04 18:25:24.392 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (5466ms)
+2026-09-04 18:25:24.394 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (5467ms)
+2026-09-04 18:30:03.718 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (3120ms)
+2026-09-04 18:30:03.726 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (3121ms)
+2026-09-04 18:34:51.403 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (2865ms)
+2026-09-04 18:34:51.419 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (2866ms)
+2026-09-04 18:36:58.627 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (2008ms)
+2026-09-04 18:36:58.628 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (2075ms)
+2026-09-04 18:37:02.594 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (3947ms)
+2026-09-04 18:37:02.597 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (3947ms)
+2026-09-04 18:48:56.184 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (4846ms)
+2026-09-04 18:48:56.188 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (4847ms)
+2026-09-04 18:50:20.490 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (2445ms)
+2026-09-04 18:50:20.491 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (2446ms)
+2026-09-04 19:00:35.558 [info] (74493): BG(project): Long operation: SemanticTokens delta previousResultId:1788528331209 at file:///home/k7dx/project/backend/main.py (3842ms)
+2026-09-04 19:01:01.533 [info] (74493): BG(project): Long operation: SemanticTokens delta previousResultId:1788528646227 at file:///home/k7dx/project/backend/main.py (3221ms)
+2026-09-04 19:09:03.575 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (2423ms)
+2026-09-04 19:09:03.577 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (2423ms)
+2026-09-04 19:09:06.131 [info] (74493): BG(project): Long operation: SemanticTokens delta previousResultId:1788529123686 at file:///home/k7dx/project/backend/main.py (2546ms)
+2026-09-04 20:31:41.751 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (2218ms)
+2026-09-04 20:31:41.753 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (2219ms)
+2026-09-04 20:31:49.906 [info] (74493): BG(project): Long operation: SemanticTokens delta previousResultId:1788529147982 at file:///home/k7dx/project/backend/main.py (8073ms)
+2026-09-04 20:31:53.764 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (3794ms)
+2026-09-04 20:31:53.765 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (3849ms)
+2026-09-05 15:38:30.394 [info] (74493): BG(project): Long operation: indexing: file:///home/k7dx/project/backend/main.py (3227ms)
+2026-09-05 15:39:05.727 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (36446ms)
+2026-09-05 15:39:05.728 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (36470ms)
+2026-09-05 15:39:08.536 [info] (74493): BG(project): Long operation: SemanticTokens delta previousResultId:1788534116664 at file:///home/k7dx/project/backend/main.py (2709ms)
+2026-09-05 15:47:21.551 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (3709ms)
+2026-09-05 15:47:21.553 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (3709ms)
+2026-09-05 15:47:23.644 [info] (74493): BG(project): Long operation: SemanticTokens delta previousResultId:1788602950626 at file:///home/k7dx/project/backend/main.py (2074ms)
+2026-09-05 15:47:29.825 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (2056ms)
+2026-09-05 15:47:35.031 [info] (74493): BG(project): Long operation: SemanticTokens delta previousResultId:1788603445722 at file:///home/k7dx/project/backend/main.py (3156ms)
+2026-09-05 15:47:43.702 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (3514ms)
+2026-09-05 15:47:43.703 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (3515ms)
+2026-09-05 15:47:47.382 [info] (74493): BG(project): Long operation: SemanticTokens delta previousResultId:1788603457067 at file:///home/k7dx/project/backend/main.py (3658ms)
+2026-09-05 16:20:26.170 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (3412ms)
+2026-09-05 16:20:26.171 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (3413ms)
+2026-09-05 16:24:45.649 [info] (74493): FG(project): Auto-excluding /home/k7dx/project/backend/venv
+2026-09-05 16:24:45.661 [info] (74493): FG(project): Auto-excluding /home/k7dx/project/venv
+2026-09-05 16:24:45.663 [info] (74493): FG(project): Found 1 source file
+2026-09-05 16:24:50.893 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (4853ms)
+2026-09-05 16:24:50.895 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (4853ms)
+2026-09-05 16:25:12.470 [info] (74493): FG(project): Auto-excluding /home/k7dx/project/backend/venv
+2026-09-05 16:25:12.480 [info] (74493): FG(project): Auto-excluding /home/k7dx/project/venv
+2026-09-05 16:25:12.480 [info] (74493): FG(project): Found 2 source files
+2026-09-05 16:25:18.292 [info] (74493): BG(project): Long operation: checking: file:///home/k7dx/project/backend/main.py (4964ms)
+2026-09-05 16:25:18.293 [info] (74493): BG(project): Long operation: analyzing: file:///home/k7dx/project/backend/main.py (4964ms)

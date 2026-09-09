@@ -1,0 +1,15 @@
+2026-09-09 05:04:41.937 [info] Environment discovery is managed by the Python Environments extension (ms-python.vscode-python-envs). Check the "Python Environments" output channel for environment-specific logs.
+2026-09-09 05:04:42.243 [info] [test-by-project] Activating project-based testing mode
+2026-09-09 05:04:42.243 [info] [test-by-project] Discovering projects for workspace: /home/k7dx/project
+2026-09-09 05:04:42.243 [info] Native locator: Refresh started
+2026-09-09 05:04:42.243 [info] [test-by-project] Found 1 total Python projects from API
+2026-09-09 05:04:42.243 [info] [test-by-project] Filtered to 1 projects in workspace
+2026-09-09 05:04:42.243 [info] [test-by-project] Creating adapter for: project at file:///home/k7dx/project
+2026-09-09 05:04:42.254 [info] [test-by-project] Registered 1 project(s) for /home/k7dx/project
+2026-09-09 05:04:42.255 [info] [test-by-project] Activated 1 project(s) for /home/k7dx/project
+2026-09-09 05:04:42.255 [info] [test-by-project] Subscribed to Python project changes
+2026-09-09 05:04:42.356 [info] > pyenv which python
+2026-09-09 05:04:42.356 [info] cwd: .
+2026-09-09 05:04:44.102 [info] Native locator: Refresh finished in 1851 ms
+2026-09-09 05:04:44.120 [info] Active interpreter [/home/k7dx/project]:  /home/k7dx/project/backend/venv/bin/python
+2026-09-09 05:04:49.137 [info] Starting Pylance language server.
